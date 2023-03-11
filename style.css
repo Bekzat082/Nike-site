@@ -1,0 +1,78 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+body {
+  margin: 0;
+  background-color: #4f6c77;
+  font-size: 16px;
+  font-family: "Montserrat", sans-serif;
+}
+
+img {
+  width: 80px;
+  height: 32px;
+}
+
+header > p {
+  padding-left: 30px;
+  margin-top: 1px;
+  display: flex;
+}
+
+header {
+  display: flex;
+  margin-left: 12px;
+  padding-top: 29px;
+  margin-right: 10px;
+  margin-top: 5px;
+  padding-left: 144px;
+  margin-bottom: 0;
+  display: flex;
+  font-size: 25px;
+  background-color: #eaeeef;
+  border-radius: 20px 20px 6px 0px;
+}
+
+header > .menu {
+  display: flex;
+}
+header > .menu > .menuu {
+  margin-left: 631px;
+
+  display: flex;
+}
+
+header > .menu > .menuu > p {
+  padding-left: 54px;
+  font-size: 16px;
+}
+.firstpage > .infirst > .imgg {
+  display: flex;
+  background-image: url(images/bg.png);
+  background-size: cover;
+  margin-left: 12px;
+  margin-top: 0;
+  padding-top: 1px;
+  padding-left: 156px;
+  padding-top: 91px;
+  font-size: 28px;
+
+  font-weight: 400;
+  line-height: 5px;
+  color: #4f6c77;
+}
+
+.ttex {
+  color: black;
+  font-size: 24px;
+}
+
+button {
+  margin-top: 20px;
+  padding-top: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 5px;
+  background-color: #4f6c77;
+  border: 1px solid #9eabb3;
+  color: white;
+  margin-bottom: 180px;
+}
